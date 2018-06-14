@@ -1,0 +1,11 @@
+{
+  "name": "getstarted",
+  "version": "1.0.0",
+  "description": "This is Day 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudeep Devkota",
+  "license": "ISC"
+}
