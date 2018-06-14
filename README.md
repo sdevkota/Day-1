@@ -1,7 +1,7 @@
 
-#####################33
+#####################
 GETTING STARTED WITH NODE AND NPM
-####################3
+####################
 According to W3School Definition : 
 Node.js is an open source server environment
 Node.js is free
